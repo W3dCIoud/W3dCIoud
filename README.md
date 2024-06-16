@@ -2,7 +2,7 @@ Hi!
 
 General info:
 ----------------------------------------------------
-Nickname > W3dCloud
+Nickname > W3dCloud\n
 Live in > Ukraine
 Main programing language > C#/Batch/Python
 ----------------------------------------------------
