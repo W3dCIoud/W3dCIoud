@@ -38,5 +38,6 @@
   - Xiaomi Redmi 5A
   - iPhone 7
   - iPhone SE
- 
-  - thx @librequit for bio <3
+
+
+ Thx @librequit for the bio!
