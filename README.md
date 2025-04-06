@@ -8,17 +8,16 @@
 
 - Languages and Tools:
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24" height="24"/>
-<a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24"/>
 
 <h2 align="left">My telegram/discord/channel:</h3>
 
-- Telegram: [@neverlose_support.](https://t.me/neverlose_support)
+- Telegram: [@defensiveaa](https://t.me/defensiveaa)
 
-- Discord: shadxwbxrned (responding only here!),
+- Discord: defensiveflick,
 
 - YT channel: [@W3dCloud](https://youtube.com/@W3dCloud),
 
-- TG channel: [@W3dCloudRiver](https://t.me/W3dCloudRiver).
+- TG channel: [@x86hook](https://t.me/x86hook).
 
 <h2 align="left">My devices:</h3>
 
@@ -35,9 +34,5 @@
 
 - Phones:
   - Xiaomi Redmi Note 5
-  - Xiaomi Redmi 5A
   - iPhone 7
-  - iPhone SE
 
-
- Thx @librequit for the bio!
