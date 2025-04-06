@@ -6,18 +6,18 @@
 
 - Live in > Ukraine.
 
-- Languages and Tools:
+- Learning:
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24" height="24"/>
 
 <h2 align="left">My telegram/discord/channel:</h3>
 
 - Telegram: [@defensiveaa](https://t.me/defensiveaa)
 
-- Discord: defensiveflick,
+- Discord: defensiveflick
 
-- YT channel: [@W3dCloud](https://youtube.com/@W3dCloud),
+- YT channel: [@W3dCloud](https://youtube.com/@W3dCloud)
 
-- TG channel: [@x86hook](https://t.me/x86hook).
+- TG channel: [@x86hook](https://t.me/x86hook)
 
 <h2 align="left">My devices:</h3>
 
@@ -30,7 +30,7 @@
 - Laptop:
   - Processor > Intel Core i5-2520M (this is a dog shit)
   - GPU > GT 525M (this is a dog shit)
-  - RAM > 8 GB RAM DDR3 1333 (this is a dog shit)
+  - RAM > 8 GB RAM DDR3 1333mhz (this is a dog shit)
 
 - Phones:
   - Xiaomi Redmi Note 5
